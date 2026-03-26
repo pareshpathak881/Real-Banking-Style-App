@@ -1,0 +1,28 @@
+body {
+    font-family: Arial;
+    background: blueviolet;
+    text-align: center;
+    color: rgb(230, 157, 157);
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.card {
+    background: rgb(134, 65, 65);
+    color: black;
+    padding: 20px;
+    margin: 20px auto;
+    width: 320px;
+    border-radius: 10px;
+}
+
+button {
+    padding: 10px;
+    background: #4facfe;
+    color: white;
+    border: none;
+    width: 100%;
+    cursor: pointer;
+}
